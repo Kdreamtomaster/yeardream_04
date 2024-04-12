@@ -15,6 +15,6 @@ def main():
         prac2.sum_two_numbers()
     elif args.script == 'prac3':
         prac3.calculate_average()
-
+        
 if __name__ == "__main__":
     main()
